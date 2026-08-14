@@ -1,0 +1,11 @@
+# Default behavior
+
+# Configuration for git attributes
+Cargo.lock linguist-generated
+public/* linguist-vendored
+vendor/* linguist-vendored
+*.woff binary
+
+*.jpeg binary
+src/**/*.astro linguist-detectable
+*.jpg binary
