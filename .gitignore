@@ -1,0 +1,9 @@
+build/
+npm-debug.log*
+yarn-error.log*
+dist/
+.next/
+node_modules/
+.cache/
+*.log
+.pnpm-store/
